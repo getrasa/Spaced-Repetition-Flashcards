@@ -1,4 +1,4 @@
-# Spaced-Repetition-Flashcards
+# Spaced-Repetition-Flashcards (In console)
 
 ### What is spaced repetition?
 Spaced repetition which is a learning technique that incorporates increasing intervals of time between subsequent review of previously learned material in order to exploit the psychological spacing effect.
